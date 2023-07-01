@@ -1,3 +1,4 @@
 # ANN
-model train with MNIST using PyTorch with Adam optimizer.
-the script takes images as input and outputs a prediction of the number drawn in the image. 
+A model trained on MNIST using PyTorch with Adam optimizer.
+
+The script takes images as input and outputs a prediction of the number present in the image. 
